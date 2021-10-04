@@ -1,0 +1,9 @@
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\bin\Debug\minigame sombeee.exe.config
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\bin\Debug\minigame sombeee.exe
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\bin\Debug\minigame sombeee.pdb
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\obj\Debug\minigame sombeee.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\obj\Debug\minigame_sombeee.Form1.resources
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\obj\Debug\minigame_sombeee.Properties.Resources.resources
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\obj\Debug\minigame sombeee.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\obj\Debug\minigame sombeee.exe
+C:\Users\home\Desktop\game\minigame sombeee\minigame sombeee\obj\Debug\minigame sombeee.pdb
